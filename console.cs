@@ -206,7 +206,7 @@ namespace TodoListApp
             List<CongViec> danhSachCongViecMau = new List<CongViec>
             {
                 new CongViec { Ten = "Lam bai tap lon" },
-                new CongViec { Ten = "Đoc sach mpi" },
+                new CongViec { Ten = "Đoc sach " },
                 new CongViec { Ten = "Chuan bi cho buoi hop" },
                 new CongViec { Ten = "Đi mua thuc pham" },
                 new CongViec { Ten = "Lam bai kiem tra cuoi ky" }
